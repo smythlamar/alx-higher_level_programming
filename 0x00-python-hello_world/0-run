@@ -1,2 +1,2 @@
 #!/bin/bash
-print("Best school\n")
+python -c 'print("Best school")'

@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 -c'print("Best school")'
+python3 -c'print("C is fun!")'

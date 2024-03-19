@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 333
-"{number} Battery street"
+"{} Battery street" .format(number)

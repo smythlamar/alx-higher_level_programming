@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 number = 98
+y = int(number)
 x = ("Battery street")
-print(f"{int(number)} {x}")
+print(f"{y} {x}")

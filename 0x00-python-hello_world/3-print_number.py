@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 number = 98
-print(f"{int(number)} Battery street")
+x = str("Battery street")
+print(f"{int(number)} {x}")

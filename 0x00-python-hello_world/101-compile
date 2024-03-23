@@ -1,0 +1,2 @@
+export PYFILE=101-compile.py
+python 101-compile.pyc

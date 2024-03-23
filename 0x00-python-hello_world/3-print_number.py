@@ -2,4 +2,4 @@
 number = 98
 y = number
 x = 'Battery street'
-print(f"{y} {x}")
+print(f"{y:d} {x}")

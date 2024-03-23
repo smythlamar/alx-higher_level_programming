@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 number = 98
-y = int(number)
-x = str('Battery street')
+y = number
+x = 'Battery street'
 print(f"{y} {x}")
